@@ -1,0 +1,9 @@
+{
+  "name": "Minewar",
+  "addresses": ["minewar.net"],
+  "primaryAddress": "minewar.net",
+  "minecraftVersions": ["1.13", "1.21.11"], 
+  "socials": {
+    "discord": "https://dsc.gg/mwar"
+  }
+}
